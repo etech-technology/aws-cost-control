@@ -112,18 +112,6 @@ terraform apply -var 'dry_run=false'
 
 ---
 
-## Teaching Ideas
-
-- Walk students through:
-  - Terraform resources (`aws_lambda_function`, `aws_scheduler_schedule`, IAM roles).
-  - Lambda logic (boto3, thresholds, DRY_RUN pattern).
-  - Secrets Manager pattern for rotated keys.
-  - Slack notification integration.
-- Extend:
-  - Add SNS topics.
-  - Filter by multiple tags.
-  - Different thresholds per environment (dev vs prod).
-
 ---
 
 ## Clean up
