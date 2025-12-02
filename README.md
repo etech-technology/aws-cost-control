@@ -53,8 +53,8 @@ It’s designed for teaching and as a starting point for cost/security automatio
 ### 1. Clone / init
 
 ```bash
-git clone <your-fork-or-repo-url> aws-cost-guardian
-cd aws-cost-guardian
+git clone <your-fork-or-repo-url> aws-cost-control
+cd aws-cost-control
 
 terraform init
 ```
