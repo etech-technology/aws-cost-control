@@ -112,8 +112,6 @@ terraform apply -var 'dry_run=false'
 
 ---
 
----
-
 ## Clean up
 
 To remove all resources:
