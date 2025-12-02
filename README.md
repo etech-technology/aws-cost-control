@@ -53,7 +53,7 @@ It’s designed for teaching and as a starting point for cost/security automatio
 ### 1. Clone / init
 
 ```bash
-git clone [<your-fork-or-repo-url> aws-cost-control](https://github.com/etech-technology/aws-cost-control.git)
+git clone https://github.com/etech-technology/aws-cost-control.git
 cd aws-cost-control
 
 terraform init
